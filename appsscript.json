@@ -1,0 +1,14 @@
+{
+  "timeZone": "Asia/Kolkata",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "WhatsappAutomation",
+        "version": "24",
+        "libraryId": "1HkoVFkJu66rYEAZVLDmjArUm_4BKe719e0tPogYxaVvw0RYrgBh-aWqw"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
